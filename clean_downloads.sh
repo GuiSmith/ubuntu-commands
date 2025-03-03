@@ -12,13 +12,3 @@ if [ -d "$downloads_dir" ]; then
 else
     echo "A pasta Downloads não existe."
 fi
-
-
-
-
-
-
-
-                              [ 13 linhas lidas ]
-^G Ajuda     ^O Gravar    ^W Onde está?^K Recortar  ^T Executar  ^C Local
-^X Sair      ^R Ler o arq ^\ Substituir^U Colar     ^J Justificar^/ Ir p/ linha
